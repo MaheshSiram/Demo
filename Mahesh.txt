@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 347B-099E
+
+ Directory of C:\Users\mahesh\Desktop\sampleproject
+
+01/04/2017  10:53 PM    <DIR>          .
+01/04/2017  10:53 PM    <DIR>          ..
+01/04/2017  08:04 PM    <DIR>          .git
+01/04/2017  10:53 PM                 0 Mahesh.txt
+01/04/2017  07:36 PM                 0 test.txt
+               2 File(s)              0 bytes
+               3 Dir(s)  21,471,793,152 bytes free
